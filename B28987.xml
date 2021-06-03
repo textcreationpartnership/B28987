@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the right honourable Thomas Earl Rivers, upon his appeal exhibited before the Lords in Parliament, against a dismission made by the court of Chancery of a Bill exhibited by him against the right honourable William George Richard Earl of Derby, William Earl of Strafford, Thomas Munne, gent, and Frances Richardson, widdow defendants.</title>
+            <author>Rivers, Thomas Savage, Earl, ca. 1628-1694.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28987</idno><idno type="EEBO-CITATION">99887499</idno>
+  <idno type="VID">190471</idno>
+  <idno type="EEBO-PROQUEST">2240888917</idno>
+  
+            <idno type="STC">Wing R1553A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[17]</idno>
+            <idno type="STC">ESTC R227765</idno>
+            <idno type="PROQUEST">ocm99887499</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887499e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190471)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the right honourable Thomas Earl Rivers, upon his appeal exhibited before the Lords in Parliament, against a dismission made by the court of Chancery of a Bill exhibited by him against the right honourable William George Richard Earl of Derby, William Earl of Strafford, Thomas Munne, gent, and Frances Richardson, widdow defendants.</title>
+                  <author>Rivers, Thomas Savage, Earl, ca. 1628-1694.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Cases --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190471:1"/>
+            <head>The CASE of the Right Honourable <hi>Thomas</hi> Earl <hi>Rivers,</hi> upon his Appeal Exhibited before the Lords in Parliament, against a Dismission made by the Court of Chancery of a Bill Exhibited by him a<g ref="char:EOLhyphen"/>gainst the Right Honourable <hi>William George Richard</hi> Earl of <hi>Derby, William</hi> Earl of <hi>Strafford, Thomas Munne,</hi> Gent, and <hi>Frances Richardson,</hi> Widdow, Defendants.</head>
+            <p>
+               <hi>That</hi> by Indenture Dated the 13th Day of <hi>May,</hi> 1678. between the Appellant and <hi>Thomas</hi> Lord Viscount <hi>Colchester</hi> his Son Deceased of the First part, the Honourable <hi>John Savage</hi> and <hi>Robert Pickering</hi> Esqs; of the Second part, the Defendants the Earl of <hi>Derby</hi> and Earl of <hi>Strafford</hi> and <hi>John Gronham How,</hi> Esq; and <hi>Robert Hyde</hi> Gent' both Deceased of the Third part, and a Fine and Recovery Levyed and Suffered, The seve<g ref="char:EOLhyphen"/>ral Mannours of <hi>Chich,</hi> St. <hi>Osith,</hi> Great <hi>Clacton,</hi> Little <hi>Clacton,</hi> and divers Messuages, Lands and Tenements in the County of <hi>Essex</hi> were setled on the said Lord <hi>Colchester</hi> for Lise, and after of part thereof to the Lady <hi>Charlotte</hi> his Wife for Life, Sister of the said Earl of <hi>Derby</hi> for a Jointure, and after to the first Son of the said Lord <hi>Colchester</hi> on the body of his said Wife in Taile Male remainder to the 2, 3, 4th, and all other the Sons of the said Lord <hi>Colchester</hi> on the body of his said Wife remainder to the said <hi>Thomas</hi> Earl <hi>Rivers</hi> in Taile Male with divers remainders over.</p>
+            <p>
+               <hi>That</hi> in the Settlement there is a Provisoe, That in case the said Lord <hi>Colchester</hi> should Die, leaving no Issue Male on the Body of his said Wife, and the said Mannours and Premisses should come to any other Heir Male of the said Lord <hi>Colchester</hi> by any other Wife begotten, or any other person or persons by Virtue of any the Uses, Limitations and Appointments therein mention'd. And that there should be any Daughter or Daughters of the said Lord <hi>Colchester</hi> on the Body of the said Lady <hi>Charlotte</hi> begotten living at his Death, That the said Earl of <hi>Derby,</hi> Earl of <hi>Strafford, John Grobham How,</hi> and <hi>Robert Hide</hi> and their Heirs, should stand seized of all and every the said Mannours, Messuages, and Premisses, except those Limited to the said Lady <hi>Charlotte</hi> during her life, and after of those likewise to the intent the said Daughter and Daughters may receive and take the Sum of 10000 <hi>l.</hi> out of the Rents and Profits thereof to the use of such One Daughter if but one, if more equally to be devided amongst them, together with the several Sums of 1000 <hi>l.</hi> apiece for the maintenance of such Daughter and Daughters until payment which is mentioned in the Deed to be intended for their Portion and Portions respectively.</p>
+            <p>
+               <hi>That</hi> the said Lord <hi>Colchester</hi> dyed in <hi>October</hi> 1679, leaving only one Daughter, to wit, <hi>Charlotte Katherine Savage,</hi> and thereby the said Earl of <hi>Derby</hi> and Trustees became intitled to the said Mannours and the Rents and Fines of Copyholders thereof, and divers Woods in trust for raising the said 10000 <hi>l.</hi> and a 100 <hi>l. per ann.</hi> maintenance, and one <hi>John Richardson</hi> Husband of the Defendant <hi>Elizabeth</hi> was imployed under the said Trus<g ref="char:EOLhyphen"/>tees for 5 Years ending at <hi>Michaelmas</hi> 1684, in which time was raised 800 <hi>l.</hi> and <hi>Thomas Munne</hi> for 2 Years whereby was raised 500 <hi>l.</hi>
+            </p>
+            <p>
+               <hi>The</hi> said <hi>Charlotte Katherine Savage</hi> Daughter of the said Lord <hi>Colchester</hi> died, being of the Age of 17 and no more,<note place="margin">31. of March, 1687.</note> unmarried, and thereby the Monies already raised ought to be paid to the said Earl <hi>Rivers,</hi> being next in remainder, and the residue of the said 10000 <hi>l.</hi> ought not to be raised, but sink into the Inheritance, it being declared by the Settlement to be intended for her Portion, and the Trustees ought to convey to the said Earl <hi>Rivers,</hi> and the said <hi>Charlotte Katherine Savage</hi> had no power to dispose of the said 10000 <hi>l.</hi> as she did by her Will, thereby giving 3000 <hi>l.</hi> to the Earl of <hi>Derby:</hi> To her Mother 3000 <hi>l.</hi> To the Lady <hi>Charlotte Murray</hi> 8000 <hi>l.</hi> And other Legacies, in all 16350 <hi>l.</hi> although she had no other Estate than this Portion of 10000 <hi>l.</hi> and Constituted the said Earl of <hi>Derby</hi> her Executor, for which end the said Earl <hi>Rivers</hi> Exhibited his Bill in the Chancery,</p>
+            <p>
+               <hi>That</hi> the Earls of <hi>Derby</hi> and <hi>Strafford</hi> did put in their Answers, and thereby set forth the said Settlement and Power therein for raising the said 10000 <hi>l.</hi> and 100 <hi>l. per Annum</hi> Maintenance till Payment, and set forth and Confess the Death of the said Lord <hi>Colchester,</hi> and that his Daughter <hi>Charlotte Katherine Savage</hi> died, being 17 Years and a Month Old, having made her Will and given such Legacies as above, and they insist that the said 10000 <hi>l.</hi> may be raised and disposed of according to the said Settlement, and the last Will of the said <hi>Charlotte Katherine Savage.</hi>
+            </p>
+            <p>
+               <hi>And</hi> the said Mr. <hi>Munne</hi> by Answer Confesseth he was Receiver: And Mrs. <hi>Richardson</hi> by Answer Confesseth her Husband was Receiver of the Lands set apart for raising the said 10000 <hi>l.</hi> and are willing to come to Accompt and pay what is in their hands, as the Court did Direct.</p>
+            <p>
+               <hi>That</hi> the Cause was heard on the Bill and Answers, the 18th. day of <hi>July</hi> last, before the Lord <hi>Chancellour,</hi> who dismissed the Bill, and since the said Mr. <hi>Munne</hi> and Mrs. <hi>Richardson</hi> have paid what they Received to the said Earl of <hi>Derby</hi> and Earl of <hi>Strafford.</hi>
+            </p>
+            <p>
+               <hi>FROM</hi> this Dismission the Earl <hi>Rivers</hi> hath Appealed to the Lords in Parliament, that the Portion of 10000 <hi>l.</hi> may not now be raised, the young Lady being Dead so Young and Unmarried, and it being declared to be her Portion, there is no occasion to raise the same, but it ought to sink into the Inheritance, which is agreeable to former Judgments given by their Lordships in like Cases.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
